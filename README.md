@@ -40,3 +40,5 @@ Designed and developed as part of Hack Club Half Life – Week 3.
 ---
 
 *BEATPAD — Play the beat. Own the rhythm.*
+
+<img width="415" height="296" alt="image" src="https://github.com/user-attachments/assets/86f98e08-3852-42e4-91c7-4a02eb45fb44" />
