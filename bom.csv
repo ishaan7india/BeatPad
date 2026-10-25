@@ -1,0 +1,11 @@
+﻿Name,Quantity,Component
+"UCommand Hub",1," Arduino Uno R3"
+"SSong, SStart/Pause, SMode, SKey1, SKey2, SKey3, SKey4",7," Pushbutton"
+"UDisplay",1,"MCP23008-based, 39 (0x27) LCD 16 x 2 (I2C)"
+"PIEZOBuzzer",1," Piezo"
+"DPowerLED, DLED1",2,"Red LED"
+"BatPower Source",1,"4 batteries, AA, yes 1.5V Battery"
+"DLED2",1,"Blue LED"
+"DLED3",1,"Green LED"
+"DLED4",1,"Yellow LED"
+"RR1, RR2, RR3, RR4",4,"220 Ω Resistor"
